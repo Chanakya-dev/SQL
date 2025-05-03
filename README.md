@@ -72,15 +72,7 @@
 
 ---
 
-## 9️⃣ **Views and Indexes**
-
-* Creating and using Views
-* Creating and using Indexes
-* Performance benefits
-
----
-
-## 🔟 **TCL (Transaction Control Language)**
+## 9️⃣ **TCL (Transaction Control Language)**
 
 * Transactions: START TRANSACTION / BEGIN
 * COMMIT
@@ -91,7 +83,7 @@
 
 ---
 
-## 1️⃣1️⃣ **User Management & DCL**
+## 🔟 **User Management & DCL**
 
 * Creating users
 * Granting privileges (GRANT)
